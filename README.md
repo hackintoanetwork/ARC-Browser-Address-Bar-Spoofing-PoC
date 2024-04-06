@@ -18,6 +18,9 @@ ARC Browser Address Bar Spoofing PoC - iOS/iPadOS
     spoof();
 </script>
 ```
+<br>
+<br>
+
 
 ## DEMO
 
@@ -27,6 +30,7 @@ ARC Browser Address Bar Spoofing PoC - iOS/iPadOS
 
 
 ## TimeLine
+
  - 2024-01-25 : Vulnerability reported to The Browser Company of New York
  - 2024-01-25 : Recognized as a security vulnerability
  - 2024-02-13 : Patched in the latest release
