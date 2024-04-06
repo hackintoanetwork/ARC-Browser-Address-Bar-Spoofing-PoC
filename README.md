@@ -3,8 +3,6 @@ ARC Browser Address Bar Spoofing PoC - iOS/iPadOS
 
 ## Exploit PoC (Proof of Concept)
 
----
-
 ```html
 <script>
     function spoof() {
