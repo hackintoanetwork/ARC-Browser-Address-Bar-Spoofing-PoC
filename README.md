@@ -1,4 +1,4 @@
-# ARC-Browser-Address-Bar-Spoofing-PoC (CVE-2024-25733)
+# ARC Browser Address Bar Spoofing - iOS/iPadOS (CVE-2024-25733)
 ARC Browser Address Bar Spoofing PoC - iOS/iPadOS
 
 ## Exploit PoC (Proof of Concept)
