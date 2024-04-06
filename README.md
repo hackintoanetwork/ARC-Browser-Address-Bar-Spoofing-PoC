@@ -19,7 +19,6 @@ ARC Browser Address Bar Spoofing PoC - iOS/iPadOS
 </script>
 ```
 <br>
-<br>
 
 
 ## DEMO
