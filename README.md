@@ -5,7 +5,7 @@ ARC Browser Address Bar Spoofing PoC - iOS/iPadOS
 
 ---
 <a href="https://github.com/hackintoanetwork/ARC-Browser-Address-Bar-Spoofing-PoC/raw/main/PoC.mp4">PoC.mp4</a>
-
+<br>
 
 ## Exploit PoC (Proof of Concept)
 
